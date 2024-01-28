@@ -12,7 +12,7 @@ poolTable.description = "You can play with Martindale Marshions."
 
 dog = NPC("dog") 
 dog.aliases = ["dog"]
-dog.description = "It's loud and aggresive. He has a chrome futuristic suit on watch out." 
+dog.description = "It's loud and aggresive. He has a chrome futuristic suit on watch out!" 
 
 bone = UsablePortable("bone") 
 bone.aliases = ["bone"] 
