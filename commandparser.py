@@ -1,4 +1,4 @@
-# Dr. McCartin-Lim's Adventure Game Engine 0.75
+#  Adventure Game Engine 0.75
 
 from classes import *
 from helperfunctions import *
